@@ -1,0 +1,6 @@
+Tumor Type,Otsu Dice,Otsu Jaccard,Sauvola Dice,Sauvola Jaccard
+glioma,1.0000,1.0000,0.6246,0.4554
+meningioma,1.0000,1.0000,0.6333,0.4724
+notumor,1.0000,1.0000,0.6724,0.5251
+pituitary,1.0000,1.0000,0.7251,0.5745
+Overall,1.0000,1.0000,0.6639,0.5069
